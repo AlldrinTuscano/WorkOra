@@ -1,3 +1,5 @@
+WorkOra -A Versatile Hiring and Marketing Platform
+
 WorkOra is an AI-powered decentralized marketing platform created to connect advertisers, freelancers, and content creators in one transparent ecosystem. The platform focuses on trust, privacy, and smart campaign management while giving users complete control over their data. It combines AI technology with decentralized systems to improve collaboration and marketing efficiency.
 
 Features:
